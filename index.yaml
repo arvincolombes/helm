@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  javaweapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-04-09T19:16:00.639468561Z"
+    description: A Helm chart for Kubernetes
+    digest: a75ac19372e547dfa1503ba45644b6d1918da5031fe5572c0cde4e2e2e355700
+    name: javaweapp
+    type: application
+    urls:
+    - https://arvincolombes.github.io/helm/javaweapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-09T19:16:00.63593627Z"
